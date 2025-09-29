@@ -53,7 +53,3 @@ Discord Oversec is intended solely for **educational and ethical purposes**. It 
 ## License
 
 This project is licensed under a proprietary license. See the [source code](#) for full license details. Unauthorized use, modification, or distribution is prohibited.
-
-## Contact
-
-For inquiries or permission requests, contact pxwild via [email@example.com](mailto:email@example.com).
